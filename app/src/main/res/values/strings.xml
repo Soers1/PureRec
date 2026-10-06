@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PureRec</string>
+    <string name="recording_channel_name">录屏进行中</string>
+    <string name="recording_channel_desc">显示录屏状态、暂停与停止按钮</string>
+    <string name="notif_title">正在录屏</string>
+    <string name="notif_stop">停止录制</string>
+    <string name="notif_pause">暂停</string>
+    <string name="notif_resume">继续</string>
+    <string name="tile_label">PureRec 录屏</string>
+</resources>
